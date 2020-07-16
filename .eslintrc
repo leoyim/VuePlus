@@ -1,0 +1,12 @@
+{
+    "extends": ["standard", "plugin:vue/essential"],
+    "plugins": [
+      "html"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {
+      "no-tabs": 0
+    }
+  }
